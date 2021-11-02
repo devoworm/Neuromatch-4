@@ -7,3 +7,5 @@ This repository will contain projects related to DevoWorm activities related to 
 2) DevoWorm (GSoC lead-up) + Open Science (overview).
 
 3) demystifying session (for OW and open-science). ORCID -- AutoCV, professional development.
+
+4) Mathematics of DevoWorm.
