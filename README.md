@@ -9,3 +9,10 @@ This repository will contain projects related to DevoWorm activities related to 
 3) demystifying session (for OW and open-science). ORCID -- AutoCV, professional development.
 
 4) Mathematics of DevoWorm.
+
+<p>
+  <IMG height = 50% width = 50% SRC="https://github.com/devoworm/Neuromatch-4/blob/main/Media/Mathematics-DevoWorm-1.png">
+    </p>
+<p>
+  <IMG height = 50% width = 50% SRC="https://github.com/devoworm/Neuromatch-4/blob/main/Media/Mathematics-DevoWorm-2.png">
+    </p>
